@@ -216,6 +216,12 @@ body {
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
+[data-type="russia"] .content__left {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/russia.jpg");
+}
+.spinner--right [data-type="russia"] .content__left {
+  background-image: none;
+}
 [data-type="china"] .content__left {
   background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/china.jpg");
 }
