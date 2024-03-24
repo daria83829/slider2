@@ -217,7 +217,7 @@ body {
   background-image: none;
 }
 [data-type="russia"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/russia.jpg");
+  background-image: url("https://s1.1zoom.ru/b5050/337/Houses_Moscow_Russia_502681_3840x2400.jpg");
 }
 .spinner--right [data-type="russia"] .content__left {
   background-image: none;
