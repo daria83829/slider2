@@ -210,6 +210,12 @@ body {
   font-family: oswald;
   color: #fff;
 }
+[data-type="africa"] .content__left {
+  background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2018-09/4/13/asset/buzzfeed-prod-web-01/sub-buzz-32648-1536082099-1.jpg");
+}
+.spinner--right [data-type="africa"] .content__left {
+  background-image: none;
+}
 [data-type="iceland"] .content__left {
   background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/iceland.jpg");
 }
