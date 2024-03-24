@@ -216,16 +216,16 @@ body {
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
-[data-type="russia"] .content__left {
-  background-image: url("https://s1.1zoom.ru/b5050/337/Houses_Moscow_Russia_502681_3840x2400.jpg");
-}
-.spinner--right [data-type="russia"] .content__left {
-  background-image: none;
-}
 [data-type="africa"] .content__left {
   background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2018-09/4/13/asset/buzzfeed-prod-web-01/sub-buzz-32648-1536082099-1.jpg");
 }
 .spinner--right [data-type="africa"] .content__left {
+  background-image: none;
+}
+[data-type="russia"] .content__left {
+  background-image: url("https://s1.1zoom.ru/b5050/337/Houses_Moscow_Russia_502681_3840x2400.jpg");
+}
+.spinner--right [data-type="russia"] .content__left {
   background-image: none;
 }
 [data-type="china"] .content__left {
